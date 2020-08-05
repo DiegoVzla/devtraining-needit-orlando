@@ -42,7 +42,7 @@
         <update_guid_history>4fb049e40c02101006ce5daa6ad461d8:-9110323</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_58872_needit_friendly_name_of_the_new_table.x_58872_needit.friendly_name_of_th">b4d00de4db021010ee3085184b961903</sys_audit_delete>
+        <sys_audit_delete display_value="">b4d00de4db021010ee3085184b961903</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-13 11:15:23</sys_created_on>

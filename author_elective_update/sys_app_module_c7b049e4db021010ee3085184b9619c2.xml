@@ -65,7 +65,7 @@
         <update_guid_history>83b049e497021010563c256eb95601c5:1449556593</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Friendly name of the new table.s">f0d00de4db021010ee3085184b961932</sys_audit_delete>
+        <sys_audit_delete display_value="">f0d00de4db021010ee3085184b961932</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-13 11:15:23</sys_created_on>
